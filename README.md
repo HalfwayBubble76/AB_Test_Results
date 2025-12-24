@@ -68,7 +68,7 @@ Actual variant conversion was **~1.8%**, far below that threshold.
 
 ## 📓 Notebook
 - notebooks/AB_Test_Results.ipynb
-- [https://nbviewer.org/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/ab_pricing_experiment.ipynb](https://nbviewer.org/github/HalfwayBubble76/AB_Test_Results/blob/main/AB_Test_Results.ipynb)
+- [https://nbviewer.org/github/HalfwayBubble76/AB_Test_Results/blob/main/AB_Test_Results.ipynb]
 
 
 ---
@@ -83,7 +83,7 @@ numpy >= 1.24
 matplotlib >= 3.7
 seaborn >= 0.12
 
-
+   
 ## ✅ License
 MIT License © 2025 Tim Manuel
 

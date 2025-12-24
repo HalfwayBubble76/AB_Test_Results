@@ -28,7 +28,7 @@
 ## Notebook
 - Main analysis: `notebooks/ab_pricing_experiment.ipynb`
 - View online (if GitHub rendering is slow):
-  - **nbviewer:** <ADD_NBV_LINK_HERE>
+  - **nbviewer:** <https://nbviewer.org/github/HalfwayBubble76/AB_Test_Results/blob/main/AB_Test_Results.ipynb>
   - **Binder (run in browser):** <ADD_BINDER_LINK_HERE>
 
 ## Figures

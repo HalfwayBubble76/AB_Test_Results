@@ -29,7 +29,7 @@
 - Main analysis: `notebooks/ab_pricing_experiment.ipynb`
 - View online (if GitHub rendering is slow):
   - **nbviewer:** <https://nbviewer.org/github/HalfwayBubble76/AB_Test_Results/blob/main/AB_Test_Results.ipynb>
-  - **Binder (run in browser):** <ADD_BINDER_LINK_HERE>
+  - **Binder (run in browser):** <[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HalfwayBubble76/AB_Test_Results/HEAD?urlpath=%2Fdoc%2Ftree%2FAB_Test_Results.ipynb)>
 
 ## Figures
 Saved in `figures/`:

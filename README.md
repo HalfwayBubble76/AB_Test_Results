@@ -1,6 +1,3 @@
-# AB_Test_Results
-Results of A/B Testing - Comparing pricing of Premium Plus at $9.99/month (control) vs $4.99/month (variant).
-
 # A/B Test: Premium Plus Pricing ($9.99 vs $4.99)
 
 **Goal:** Determine whether lowering the Premium Plus price from **$9.99** to **$4.99** increases overall revenue for a streaming platform.

@@ -84,6 +84,7 @@ numpy >= 1.24
 matplotlib >= 3.7
 seaborn >= 0.12
 
+---
 
 ## ✅ License
 MIT License © 2025 Tim Manuel

@@ -42,3 +42,9 @@ Saved in `figures/`:
 ## Reproducibility
 ```bash
 pip install -r requirements.txt
+
+
+MIT License
+Copyright (c) 2025 Tim Manuel
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+

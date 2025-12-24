@@ -92,7 +92,3 @@ pandas >= 2.0
 numpy >= 1.24
 matplotlib >= 3.7
 seaborn >= 0.12
-
----
-
-

@@ -29,10 +29,11 @@ Actual variant conversion was **~1.8%**, far below that threshold.
 ---
 
 ## 📊 Visualizations
-![Conversion Rate](figures/conversion_rate.png)
-![Total Revenue](figures/total_revenue.png)
-![ARPU](figures/arpu.png)
-![AOV](figures/aov.png)
+![Conversion Rate](<img width="766" height="566" alt="conversion_rate" src="https://github.com/user-attachments/assets/f6c92c67-46c5-44e7-8951-bef5f095d591" />)
+![ARPU](<img width="766" height="566" alt="arpu" src="https://github.com/user-attachments/assets/026f5752-8bd5-48ff-a311-242c97403e60" />
+)
+![AOV](<img width="766" height="566" alt="aov" src="https://github.com/user-attachments/assets/1015d265-91f0-401c-ba18-33e9ca73dc10" />
+)
 
 *(Charts generated in Python using Matplotlib/Seaborn. See notebook for code.)*
 
@@ -83,7 +84,7 @@ numpy >= 1.24
 matplotlib >= 3.7
 seaborn >= 0.12
 
-   
+
 ## ✅ License
 MIT License © 2025 Tim Manuel
 

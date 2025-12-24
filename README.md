@@ -84,11 +84,13 @@ MIT License © 2025 Tim Manuel
 - [LinkedIn]([https://www.linkedin.com/in/timothy-manuel-a70112149/]
 
 ## ⚙️ Requirements
-Install dependencies:
-```bash
-pip install -r requirements.txt
+To run this project, you will need **Python 3.x** and the following libraries:
 
-pandas >= 2.0
-numpy >= 1.24
-matplotlib >= 3.7
-seaborn >= 0.12
+* **Pandas**: For data manipulation and analysis.
+* **NumPy**: For scientific computing and array handling.
+* **Matplotlib / Seaborn**: For creating the visualizations and plots.
+
+### Installation
+You can install all dependencies using pip:
+```bash
+pip install pandas numpy matplotlib seaborn

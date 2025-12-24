@@ -74,6 +74,15 @@ Actual variant conversion was **~1.8%**, far below that threshold.
 
 ---
 
+
+## ✅ License
+MIT License © 2025 Tim Manuel
+
+---
+
+## 🔗 Connect
+- [LinkedIn]([https://www.linkedin.com/in/timothy-manuel-a70112149/]
+
 ## ⚙️ Requirements
 Install dependencies:
 ```bash
@@ -86,11 +95,4 @@ seaborn >= 0.12
 
 ---
 
-## ✅ License
-MIT License © 2025 Tim Manuel
-
----
-
-## 🔗 Connect
-- [LinkedIn]([https://www.linkedin.com/in/timothy-manuel-a70112149/]
 

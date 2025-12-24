@@ -43,7 +43,7 @@ Saved in `figures/`:
 ```bash
 pip install -r requirements.txt
 
-
+## License
 MIT License
 Copyright (c) 2025 Tim Manuel
 Permission is hereby granted, free of charge, to any person obtaining a copy...
